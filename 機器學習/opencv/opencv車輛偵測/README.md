@@ -4,7 +4,9 @@
 
 ## DEMO
 
-![pit1WV](https://i.makeagif.com/media/5-01-2024/pit1WV.gif)
+![upgit_20240501_1714552913.png](https://raw.githubusercontent.com/kcwc1029/obsidian-upgit-image/main/2024/05/upgit_20240501_1714552913.png)
+
+https://imgur.com/odFNEBb
 
 ## 使用工具
 
