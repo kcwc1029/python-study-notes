@@ -2,6 +2,8 @@
 
 這個存放庫包含兩個 Python 腳本,用於單目標和多目標追蹤。
 
+![upgit_20240502_1714638804.png](https://raw.githubusercontent.com/kcwc1029/obsidian-upgit-image/main/2024/05/upgit_20240502_1714638804.png)
+
 ## 使用到的技能
 
 -   OpenCV 電腦視覺庫
