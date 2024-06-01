@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flask 理財網站/README.md",
+                "file": "機器學習/mediapipe/Mediapipe 手掌特徵點偵測( Hand Landmark Detection )/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 247.5
   },
   "right": {
     "id": "af7f609642505890",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flask 理財網站/README.md",
+                "file": "機器學習/mediapipe/Mediapipe 手掌特徵點偵測( Hand Landmark Detection )/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flask 理財網站/README.md",
+                "file": "機器學習/mediapipe/Mediapipe 手掌特徵點偵測( Hand Landmark Detection )/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flask 理財網站/README.md"
+                "file": "機器學習/mediapipe/Mediapipe 手掌特徵點偵測( Hand Landmark Detection )/README.md"
               }
             }
           }
@@ -143,9 +143,38 @@
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
-      "command-palette:開啟命令面板": false
+      "command-palette:開啟命令面板": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
   "active": "f89f0c5ec6da49c3",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "U Computer Vision Masterclass/遷移學習和微調/遷移學習.ipynb",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3607.jpg",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3613.jpg",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3820.jpg",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3834.jpg",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3808.jpg",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3559.jpg",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3571.jpg",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3565.jpg",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3997.jpg",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3983.jpg",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2/test_set/dog",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2/test_set/cat",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2/training_set/dog",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2/training_set/cat",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2/training_set",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2/test_set",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/training_set/dog",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/training_set/cat",
+    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog",
+    "網路/網路基本概念（TCP&UDP）.md",
+    "網路/網路扎根觀念.md",
+    "flask 理財網站/README.md",
+    "U Computer Vision Masterclass/YOLO物體追蹤/darknet/scripts/log_parser/readme.md",
+    "U Computer Vision Masterclass/YOLO物體追蹤/darknet/scripts/README.md",
+    "U Computer Vision Masterclass/YOLO物體追蹤/darknet/README.md"
+  ]
 }

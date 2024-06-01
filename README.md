@@ -5,6 +5,7 @@
 ## youtube 初學者影片推薦
 
 -   [(1126) 承霓 - YouTube](https://www.youtube.com/@ninniyang)
+-   https://www.youtube.com/watch?v=_qvBnFkTkto&list=PLL0pENo5JAxSZu6ez7bvDdKicRC_7spL-
 
 ## 計概課程 lab 答案
 

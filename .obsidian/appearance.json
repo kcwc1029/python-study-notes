@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Reverie",
+  "theme": "obsidian",
+  "textFontFamily": "BiauKai"
 }
