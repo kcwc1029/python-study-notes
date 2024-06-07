@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "機器學習/mediapipe/Mediapipe 手掌特徵點偵測( Hand Landmark Detection )/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "機器學習/mediapipe/Mediapipe 手掌特徵點偵測( Hand Landmark Detection )/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "機器學習/mediapipe/Mediapipe 手掌特徵點偵測( Hand Landmark Detection )/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "機器學習/mediapipe/Mediapipe 手掌特徵點偵測( Hand Landmark Detection )/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,29 +149,35 @@
   },
   "active": "f89f0c5ec6da49c3",
   "lastOpenFiles": [
-    "U Computer Vision Masterclass/遷移學習和微調/遷移學習.ipynb",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3607.jpg",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3613.jpg",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3820.jpg",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3834.jpg",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3808.jpg",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3559.jpg",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3571.jpg",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3565.jpg",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3997.jpg",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog/dog.3983.jpg",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2/test_set/dog",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2/test_set/cat",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2/training_set/dog",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2/training_set/cat",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2/training_set",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2/test_set",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/__MACOSX/cat_dog_2",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/training_set/dog",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/training_set/cat",
-    "U Computer Vision Masterclass/卷積神經網絡用於圖像分類/cat_dog_2/test_set/dog",
+    "U Machine Learning A-Z/Machine Learning A-Z (Codes and Datasets)/邏輯回歸（Logistic Regression）/邏輯回歸（Logistic Regression）.ipynb",
+    "U Machine Learning A-Z/Machine Learning A-Z (Codes and Datasets)/邏輯回歸（Logistic Regression）/Social_Network_Ads.csv",
+    "U Machine Learning A-Z/Machine Learning A-Z (Codes and Datasets)/邏輯回歸（Logistic Regression）",
+    "U Machine Learning A-Z/分類系列/邏輯回歸（Logistic Regression）/邏輯回歸（Logistic Regression）.ipynb",
+    "U Machine Learning A-Z/分類系列/邏輯回歸（Logistic Regression）/Social_Network_Ads.csv",
+    "U Machine Learning A-Z/分類系列/邏輯回歸（Logistic Regression）",
+    "U Machine Learning A-Z/分類系列",
+    "U Machine Learning A-Z/邏輯回歸（Logistic Regression）/邏輯回歸（Logistic Regression）.ipynb",
+    "U Machine Learning A-Z/邏輯回歸（Logistic Regression）/Social_Network_Ads.csv",
+    "U Machine Learning A-Z/邏輯回歸（Logistic Regression）",
+    "U Machine Learning A-Z/Machine Learning A-Z (Codes and Datasets)/Part 3 - Classification/Section 14 - Logistic Regression/Python/邏輯回歸（Logistic Regression）/邏輯回歸（Logistic Regression）.ipynb",
     "網路/網路基本概念（TCP&UDP）.md",
+    "將網址轉成qrcode/out17_23.jpg",
+    "python基本套件/out17_20.png",
+    "python基本套件/out17_15.jpg",
+    "python基本套件/out17_9_2.jpg",
+    "python基本套件/out17_9_1.jpg",
+    "python基本套件/貓咪吃草莓.png",
+    "python基本套件/貓咪吃草莓.jpg",
+    "python基本教學/可愛花花貓貓1.jpg",
+    "python基本教學/可愛花花貓貓.jpg",
+    "python基本教學/threading 多執行緒處理.md",
+    "python基本教學/smtplib 發送＆接收email.md",
+    "python基本教學/matplotlib.md",
+    "python基本教學/TW.jpg",
+    "python基本教學/README.md",
+    "python基本教學/IO、錯誤處理（error & exception）.md",
     "網路/網路扎根觀念.md",
+    "機器學習/mediapipe/Mediapipe 手掌特徵點偵測( Hand Landmark Detection )/README.md",
     "flask 理財網站/README.md",
     "U Computer Vision Masterclass/YOLO物體追蹤/darknet/scripts/log_parser/readme.md",
     "U Computer Vision Masterclass/YOLO物體追蹤/darknet/scripts/README.md",

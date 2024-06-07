@@ -1,4 +1,4 @@
-## ip 地址的分类
+ ## ip 地址的分类
 
 ![upgit_20240421_1713641894.png](https://raw.githubusercontent.com/kcwc1029/obsidian-upgit-image/main/2024/04/upgit_20240421_1713641894.png)
 

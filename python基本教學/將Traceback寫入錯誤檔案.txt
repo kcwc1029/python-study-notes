@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/var/folders/sw/9p5t6n_s5slgb49wh4jkfkk00000gn/T/ipykernel_55937/427828090.py", line 5, in division
+    return x / y
+           ~~^~~
+ZeroDivisionError: division by zero
+Traceback (most recent call last):
+  File "/var/folders/sw/9p5t6n_s5slgb49wh4jkfkk00000gn/T/ipykernel_55937/427828090.py", line 5, in division
+    return x / y
+           ~~^~~
+TypeError: unsupported operand type(s) for /: 'str' and 'str'

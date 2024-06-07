@@ -6,6 +6,7 @@
 
 -   [(1126) 承霓 - YouTube](https://www.youtube.com/@ninniyang)
 -   https://www.youtube.com/watch?v=_qvBnFkTkto&list=PLL0pENo5JAxSZu6ez7bvDdKicRC_7spL-
+-   https://www.youtube.com/watch?v=qXqWloRfBUw&list=PLpZ8gOBZmTy5QMSpXdhipOrccWSQd3WxI
 
 ## 計概課程 lab 答案
 
@@ -22,3 +23,6 @@
 -   Lab12：數據資料視覺化 ⭢ python 基本教學＆套件/套件 matplotlib.ipynb
 -   Lab13：opencv、虛擬環境、colab 大雜燴 ⭢ python 基本教學＆套件/套件 OpenCV.ipynb
 -   Lab14：AI 與手寫數字辨識 ⭢ python 基本教學＆套件/計概 Lab14/計概 Lab14.ipynb
+
+
+
