@@ -25,4 +25,3 @@
 -   Lab14：AI 與手寫數字辨識 ⭢ python 基本教學＆套件/計概 Lab14/計概 Lab14.ipynb
 
 
-

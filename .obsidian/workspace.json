@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87f50e4c0d3d566e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "line bot/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +98,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-                "collapseAll": false,
+                "file": "line bot/未命名.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "line bot/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "line bot/未命名.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,8 +160,13 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "f89f0c5ec6da49c3",
+  "active": "87f50e4c0d3d566e",
   "lastOpenFiles": [
+    "line bot/教學.ipynb",
+    "line bot/code01.py",
+    "Pasted image 20240625011333.png",
+    "README.md",
+    "line bot/未命名.md",
     "python操作excel/output file/~$汽車銷售表.xlsx",
     "python操作excel/output file/汽車銷售表.xlsx",
     "python操作excel/output file/~$天線寶寶玩偶銷售表.xlsx",
@@ -158,8 +176,6 @@
     "python操作excel/基礎建立直條圖.xlsx",
     "python操作excel/output file/海綿人事資料表.xlsx",
     "python操作excel/input file/海綿人事資料表.xlsx",
-    "python操作excel/DM2241Python操作Excel程式實例/程式實例/ch14/海綿人事資料表.xlsx",
-    "python操作excel/DM2241Python操作Excel程式實例/程式實例/ch14/~$data14_5.xlsx",
     "python操作excel/input file/安尼亞看到有人在色色.jpg",
     "python操作excel/input file/837b6be7402c34542ace250cf349355e.jpg",
     "python操作excel/DM2241Python操作Excel程式實例/程式實例/ch14/hung.png",
@@ -170,7 +186,6 @@
     "python基本套件/out17_15.jpg",
     "python基本套件/out17_9_2.jpg",
     "python基本套件/out17_9_1.jpg",
-    "python基本套件/貓咪吃草莓.png",
     "python基本教學/threading 多執行緒處理.md",
     "python基本教學/smtplib 發送＆接收email.md",
     "python基本教學/matplotlib.md",

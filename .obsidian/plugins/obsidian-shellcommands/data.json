@@ -24,12 +24,12 @@
   "max_visible_lines_in_shell_command_fields": false,
   "shell_commands": [
     {
-      "id": "0rp7d7sqh1",
+      "id": "r4qm0axcfm",
       "platform_specific_commands": {
-        "default": "~/bin/upgit :clipboard -f markdown"
+        "default": "C:\\upgit\\upgit.exe :clipboard -f markdown"
       },
       "shells": {},
-      "alias": "",
+      "alias": "upgit",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],
@@ -38,7 +38,7 @@
       },
       "output_handlers": {
         "stdout": {
-          "handler": "ignore",
+          "handler": "current-file-caret",
           "convert_ansi_code": true
         },
         "stderr": {

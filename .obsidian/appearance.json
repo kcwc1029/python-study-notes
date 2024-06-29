@@ -2,5 +2,8 @@
   "accentColor": "",
   "cssTheme": "Reverie",
   "theme": "obsidian",
-  "textFontFamily": "BiauKai"
+  "textFontFamily": "BiauKai",
+  "enabledCssSnippets": [
+    "page-width"
+  ]
 }
